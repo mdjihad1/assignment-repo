@@ -1,0 +1,148 @@
+.top-header{
+    background-image: url(images/donation1.jpg);
+    background-repeat: no-repeat;
+    height: 80vh;
+    background-size: cover;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color: aliceblue;
+    margin-bottom: 80px;
+
+}
+a{
+    background-color: coral;
+    color: beige;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 5%;
+    padding: 10px 40px;
+    padding-top: 10px;
+    margin-bottom: 50px;
+
+}
+.donat-tody{
+    text-align: center;
+}
+.donet-amount{
+    display: flex;
+   
+}
+.donet-amount h2{
+    margin: 2%;
+    width: 18%;
+    padding: 30px 10px;
+    background-color: rgb(231, 230, 229);
+}       
+.input-typ-amount{
+    margin: 20px 50px;
+    padding: 30px 60px;
+    text-transform: capitalize;
+}
+.select-amount{
+    border: 5px solid rgb(250, 113, 71);
+}
+.donet-plan{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 80px;
+}
+
+.food{
+    background-color: rgb(250, 222, 231);
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    padding: 20px;
+}
+.family{
+    background-color: rgb(225, 238, 248);
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    padding: 20px;
+}
+.shelter{
+    background-color: rgb(202, 248, 233);
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+    padding: 20px;
+}
+.three-plan{
+    display: flex;
+    margin-left: 18%;
+
+}
+.your-donation{
+    display: flex;
+    margin-top: 60px;
+}
+.how-donet{
+    width: 50%;
+    margin-right: 5%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 80px;
+
+
+}
+.how-donet img{
+    width: 80%;
+    margin-left: 5%;
+
+}
+.they-need-us{
+    display: flex;
+    margin-top: 60px;
+}
+.half-width{
+    width: 50%;
+    margin-left: 5%;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 80px;
+
+    
+}
+.half-width img{
+    width: 80%;
+    margin-right: 5%;
+}
+.message{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 80px;
+    background-color: bisque;
+    margin: 5% 20%;
+    padding: 2% 5%;
+    border-radius: 5px;
+
+}
+footer{
+    background-color: black;
+    color: red;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+footer span{
+    color: white;
+}
