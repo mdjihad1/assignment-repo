@@ -1,3 +1,10 @@
+body{
+    font-family: 'Gantari', sans-serif;
+    
+}
+h1{
+    font-size: 60px;
+}
 .top-header{
     background-image: url(images/donation1.jpg);
     background-repeat: no-repeat;
@@ -50,7 +57,7 @@ a{
     display: flex;
     justify-content: center;
     flex-direction: column;
-    margin-bottom: 80px;
+    margin-bottom: 10px;
 }
 
 .food{
@@ -85,13 +92,15 @@ a{
 }
 .how-donet{
     width: 50%;
-    margin-right: 5%;
+    margin-left: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
     text-align: center;
     align-items: center;
     display: flex;
     justify-content: center;
     flex-direction: column;
-    margin-bottom: 80px;
+    margin-bottom: 10px;
 
 
 }
@@ -102,22 +111,24 @@ a{
 }
 .they-need-us{
     display: flex;
-    margin-top: 60px;
+    margin-top: 30px;
 }
 .half-width{
     width: 50%;
-    margin-left: 5%;
+    margin-right: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
     text-align: center;
     align-items: center;
     display: flex;
     justify-content: center;
     flex-direction: column;
-    margin-bottom: 80px;
+    margin-bottom: 40px;
 
     
 }
 .half-width img{
-    width: 80%;
+    width: 85%;
     margin-right: 5%;
 }
 .message{
